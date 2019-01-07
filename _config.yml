@@ -45,13 +45,14 @@ author:
   linkedin: jidin-dinesh
   #stackoverflow: 
   twitter: JidinDinesh
+  google: "https://photos.app.goo.gl/BDUzkkm2PGyU7jdGA"
 
 
 
 # Select which links to show in the footer
 footer-links-active:
   rss: false
-  facebook: false
+  google: true
   email: true
   twitter: true
   github: true
