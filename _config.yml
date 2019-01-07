@@ -27,11 +27,12 @@ avatar: "/img/avatar-icon.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
-  Projects: "projects"
-  About Me: "aboutme"
-  Presentations: "presentations"
-  PPM: "ppm"
+  Experience: "Experience"
+  Education: "Education"
+  Projects: "Projects"
+  #Blog: "https://medium.com/@jidindinesh/"
+  About: "About"
+  Snapshots : "https://photos.app.goo.gl/BDUzkkm2PGyU7jdGA"
 
 # --- Footer options --- #
 
