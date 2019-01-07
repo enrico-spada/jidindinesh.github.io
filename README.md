@@ -1,3 +1,3 @@
-# kootenpv.github.io
+# jidindinesh.github.io
 
-Pascal van Kooten's github.io website.
+Jidin Dinesh's github.io website.
