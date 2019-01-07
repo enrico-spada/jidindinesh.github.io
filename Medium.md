@@ -1,1 +1,5 @@
-[Medium](https://medium.com/@jidindinesh/)
+---
+layout: page
+title: Medium(https://medium.com/@jidindinesh/)
+---
+
