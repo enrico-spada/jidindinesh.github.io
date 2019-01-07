@@ -14,16 +14,16 @@ url: "http://jidindinesh.github.io"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Pascal van Kooten
+title: Jidin Dinesh
 
 # Short description of your site
-description: Software enthusiast
+description: An aspiring AI researcher&developer.
 
 # --- Navigation bar options --- #
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+#avatar: "/img/avatar-icon.png"
 
 # List of links in the navigation bar
 navbar-links:
@@ -35,16 +35,26 @@ navbar-links:
   Snapshots : "https://photos.app.goo.gl/BDUzkkm2PGyU7jdGA"
 
 # --- Footer options --- #
+navbar-col: "#F5F5F5"
+navbar-text-col: "#404040"
+navbar-children-col: "#F5F5F5"
+page-col: "#FFFFFF"
+link-col: "#008AFF"
+hover-col: "#0085A1"
+footer-col: "#FEFEFE"
+footer-text-col: "#777777"
+footer-link-col: "#404040"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Pascal van Kooten
-  email: "kootenpv@gmail.com"
-  github: kootenpv
-  linkedin: pub/pascal-van-kooten/53/a68/b80
-  stackoverflow: users/1575066/pascalvkooten
-  twitter: kootenpv
+  name: Jidin Dinesh
+  email: "flagship404@gmail.com"
+  github: jidroid404
+  linkedin: jidin-dinesh
+  #stackoverflow: 
+  twitter: JidinDinesh
+  instagram: _grimknight_
 
 # Select which links to show in the footer
 footer-links-active:
@@ -54,7 +64,7 @@ footer-links-active:
   twitter: true
   github: true
   linkedin: true
-  stackoverflow: true
+  stackoverflow: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
@@ -63,15 +73,15 @@ footer-links-active:
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "kootenpvgithubio"
+disqus: "jidin"
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-67532421-1"
+google_analytics: "UA-131823651-1"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Europe/Amsterdam"
+# timezone: "Europe/Amsterdam"
 markdown: kramdown
 
 kramdown:
