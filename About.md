@@ -1,8 +1,3 @@
-
----
-layout: page
-title: About Me
----
 Hey! How you doing?<br/>I'm Jidin Dinesh, a self motivated CS undergrad making diligent progess in the field of Machine Learning. I find Deep Learning, Reinforcement Learning and Computer Vision particularly interesting. 
 
 
