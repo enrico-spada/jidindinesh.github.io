@@ -34,16 +34,7 @@ navbar-links:
   About: "About"
   Snapshots : "https://photos.app.goo.gl/BDUzkkm2PGyU7jdGA"
 
-# --- Footer options --- #
-navbar-col: "#F5F5F5"
-navbar-text-col: "#404040"
-navbar-children-col: "#F5F5F5"
-page-col: "#FFFFFF"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-footer-col: "#FEFEFE"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
@@ -65,6 +56,7 @@ footer-links-active:
   github: true
   linkedin: true
   stackoverflow: false
+  instagram : true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
