@@ -28,7 +28,7 @@ avatar: "/img/avatar-icon.jpeg"
 # List of links in the navigation bar
 navbar-links:
   Experience: "Experience"
-  Education: "Education"
+  #Education: "Education"
   Projects: "Projects"
   About: "About"
   Articles: "Medium"
