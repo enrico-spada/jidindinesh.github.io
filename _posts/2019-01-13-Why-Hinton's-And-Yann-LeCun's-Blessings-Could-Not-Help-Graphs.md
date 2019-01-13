@@ -12,5 +12,4 @@ Deep Learning is good at extracting complex patterns from data. Data modelled as
 
 1.Irregular domain
 
-Unlike images, audio and text whichhave a clear grid structure, graphs lie in an irregular domain, making it hard to generalize some basic mathematical operations to graphs. For example, it is not straight-forward to define convolution and pooling operation for graph data, which are the fundamental operations in Convolutional Neural Networks (CNNs). This is often referred as the Geometric Deep Learning problem.
-![Geometric](https://i.ibb.co/fnJtJWH/Screenshot-86.png)
+Unlike images, audio and text which have a clear grid structure, graphs lie in an irregular domain, making it hard to generalize some basic mathematical operations to graphs. For example, it is not straight-forward to define convolution and pooling operation for graph data, which are the fundamental operations in Convolutional Neural Networks (CNNs). This is often referred as the [Geometric Deep Learning](http://geometricdeeplearning.com/).
