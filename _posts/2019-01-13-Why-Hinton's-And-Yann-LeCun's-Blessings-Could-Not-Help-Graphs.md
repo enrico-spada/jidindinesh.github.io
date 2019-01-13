@@ -37,6 +37,7 @@ In ecommerce, a graph-based learning system will be able to exploit the interact
 Each graph has a variable size of unordered nodes and each node in a graph has a different number of neighbors, causing some important operations (e.g., convolutions), which are easy to compute in the image domain, but are not directly applicable to the graph domain any more. Furthermore, a core assumption of existing machine learning algorithms is that instances are independent of each other. However, this is not the case for graph data where each instance (node) is related to others (neighbors) via some complex linkage information, which is used to capture the interdependence among data, including citationship, friendship, and interactions.
 
 ![](https://i.ibb.co/tCJ3j77/Screenshot-86.png)
+
 [Micheal Bronstein](https://people.lu.usi.ch/bronstem/) is to [Geometric Deep Learning](https://www.youtube.com/watch?v=ptcBmEHDWds) what Geoffrey Hinton is to Deep Learning. Simple as that !
 
 If you made it here, probably you are into the idea of Graph Neural Networks and let me tell you we have a lot to cover(dropping a subtle hint that this is going to be a series of blog posts). 
