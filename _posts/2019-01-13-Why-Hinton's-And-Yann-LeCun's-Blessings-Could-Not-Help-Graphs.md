@@ -27,4 +27,7 @@ In this era of Big data, real graphs can easily have millions of nodes and edges
 Graphs are often connected with other disciplines, such as biology, chemistry or social sciences. The interdiscipline provides both opportunities and challenges: domain knowledge can be leveraged to solve specific problems, but integrating domain knowledge could make designing the model more difficult. For example, in generating molecular graphs, the objective function and chemical constraints are often non-differentiable, so gradient based training methods cannot be easily applied.
  
 #### Basically, Deep Learning on graphs require all the building blocks of Hinton's Neural Networks to be redefined and reinvented.
+
 ![](https://i.ibb.co/tCJ3j77/Screenshot-86.png)
+
+[Micheal Bronstein](https://people.lu.usi.ch/bronstem/) is to [Geometric Deep Learning](https://www.youtube.com/watch?v=ptcBmEHDWds) what Geoffrey Hinton is to Deep Learning.
