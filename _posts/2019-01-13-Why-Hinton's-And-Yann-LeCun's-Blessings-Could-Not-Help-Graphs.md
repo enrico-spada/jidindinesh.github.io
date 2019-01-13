@@ -4,7 +4,7 @@ title: Why Hinton's And Yann LeCun's Blessings Could Not Help Graphs
 subtitle: How Deep Learning on graphs is different from Deep Learning on images.
 ---
 
-Let me be honest, graphs are my favourite datastructure and graph theory is just incredible. I love graphs so much that I regularly visit [Zachary's Karate Club](https://en.wikipedia.org/wiki/Zachary%27s_karate_club).
+Let me be honest, graphs are my favourite data structure and graph theory is just incredible. I love graphs so much that I regularly visit [Zachary's Karate Club](https://en.wikipedia.org/wiki/Zachary%27s_karate_club).
 ![](http://tkipf.github.io/graph-convolutional-networks/images/karate.png)
 
 
@@ -16,11 +16,11 @@ Unlike images, audio and text which have a clear grid structure, graphs lie in a
 
 * Varying structures and tasks
 
-Graph itself can be complicated with diverse structures. For example, graphs can be heterogenous or homogenous, weighted or unweighted,and signed or unsigned. In addition, the tasks for graphs also vary greatly, ranging from node-focused problems such as node classification and link prediction, to graph-focused problems such as graph classification and graph generation.The varying structures and tasks require different model architectures to tackle specific problems.
+Graph itself can be complicated with diverse structures. For example, graphs can be heterogeneous or homogeneous, weighted or unweighted,and signed or unsigned. In addition, the tasks for graphs also vary greatly, ranging from node-focused problems such as node classification and link prediction, to graph-focused problems such as graph classification and graph generation.The varying structures and tasks require different model architectures to tackle specific problems.
 
 * Scalability and parallelization
 
-In this era of Big data, real graphs can easily have millions of nodes and edges, suchas social networks or e-commerce networks. As a result, how to design scalable models, preferably with a linear time complexity, becomes a key problem. In addition, since nodes and edges in the graph are interconnected and often need to be modeled as a whole, how to conduct parallel computing is another critical issue.
+In this era of Big data, real graphs can easily have millions of nodes and edges, such as social networks or e-commerce networks. As a result, how to design scalable models, preferably with a linear time complexity, becomes a key problem. In addition, since nodes and edges in the graph are interconnected and often need to be modelled as a whole, how to conduct parallel computing is another critical issue.
 
 * Interdiscipline
 
@@ -46,7 +46,7 @@ Taking image analysis as an example, an image can be represented as a regular gr
 Non Euclidean data has
 * No common system of coordinates
 * No vector space structure
-* No shift variance
+* No shift invariance
 
 
 #### Basically, Deep Learning on graphs require all the building blocks of Hinton's Neural Networks to be redefined and reinvented.
