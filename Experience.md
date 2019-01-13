@@ -2,11 +2,6 @@
 layout: page
 title:  Experience
 ---
-[Produvia Inc.](http://produvia.com/services.html)
-* Researcher
-* Working on predicting mining prospects and mineral deposits 
-* Hear Slava Kurilyak talk about [Mapo AI](https://www.youtube.com/watch?v=t7PIEBx8YkM&feature=youtu.be)
-* Nov 2018 – Present
 
 [FloydHub](https://blog.floydhub.com/author/jidin/)
 * Freelance Blogger
