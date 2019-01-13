@@ -25,3 +25,4 @@ In the big-data era, real graphs can easily have millions of nodes and edges, su
 4. Interdiscipline
 
 Graphs are often connected with other disciplines, such as biology, chemistry or social sciences. The interdiscipline provides both opportunities and challenges: domain knowledge can be leveraged to solve specific problems, but integrating domain knowledge could make designing the model more difficult. For example, in generating molecular graphs, the objective function and chemical constraints are often non-differentiable, so gradient based training methods cannot be easily applied.
+ 
