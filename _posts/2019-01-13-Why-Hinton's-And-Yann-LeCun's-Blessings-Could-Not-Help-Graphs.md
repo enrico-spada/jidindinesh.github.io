@@ -14,5 +14,14 @@ Deep Learning is good at extracting complex patterns from data. Data modelled as
 
 Unlike images, audio and text which have a clear grid structure, graphs lie in an irregular domain, making it hard to generalize some basic mathematical operations to graphs. For example, it is not straight-forward to define convolution and pooling operation for graph data, which are the fundamental operations in Convolutional Neural Networks (CNNs). This is often referred as the [Geometric Deep Learning](http://geometricdeeplearning.com/).
 
+2. Varying structures and tasks
 
-1. Varying structures and tasks
+Graph itself can be complicated with diverse structures. For example, graphs can be heterogenous or homogenous, weighted or unweighted,and signed or unsigned. In addition, the tasks for graphs also vary greatly, ranging from node-focused problems such as node classification and link prediction, to graph-focused problems such as graph classification and graph generation.The varying structures and tasks require different model architectures to tackle specific problems.
+
+3. Scalability and parallelization
+
+In the big-data era, real graphs can easily have millions of nodes and edges, suchas social networks or e-commerce networks. As a result, how to design scalable models, preferably with a linear time complexity, becomes a key problem. In addition, since nodes and edges in the graph are interconnected and often need to be modeled as a whole, how to conduct parallel computing is another critical issue.
+
+4. Interdiscipline
+
+Graphs are often connected with other disciplines, such as biology, chemistry or social sciences. The interdiscipline provides both opportunities and challenges: domain knowledge can be leveraged to solve specific problems, but integrating domain knowledge could make designing the model more difficult. For example, in generating molecular graphs, the objective function and chemical constraints are often non-differentiable, so gradient based training methods cannot be easily applied.
