@@ -30,7 +30,6 @@ Graphs are often connected with other disciplines, such as biology, chemistry or
 ### But Graph Neural Networks are Neural Networks on steroids.
 In ecommerce, a graph-based learning system will be able to exploit the interactions between users and products to make a highly accurate recommendations. In chemistry, molecules are modeled as graphs and their bioactivity needs to be identified for drug discovery. 
 
-#### Basically, Deep Learning on graphs require all the building blocks of Hinton's Neural Networks to be redefined and reinvented.
 
 > Graph data are irregular.
 
@@ -39,6 +38,18 @@ Each graph has a variable size of unordered nodes and each node in a graph has a
 
 ### How is Image domain different from Graph Domain
 > Image data is Euclidean data whereas graphs and manifolds are Non Euclidean data.
+
+And what does this imply?
+
+Taking image analysis as an example, an image can be represented as a regular grid in the Euclidean space. A convolutional neural network (CNN) is able to exploit the shift-invariance, local connectivity, and compositionality of image data, and as a result, CNN can extract local meaningful features that are shared with the entire datasets.
+
+Non Euclidean data has
+* No common system of coordinates
+* No vector space structure
+* No shift variance
+
+
+#### Basically, Deep Learning on graphs require all the building blocks of Hinton's Neural Networks to be redefined and reinvented.
 
 ![](https://i.ibb.co/tCJ3j77/Screenshot-86.png)
 
