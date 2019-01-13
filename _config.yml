@@ -27,9 +27,9 @@ description: An aspiring AI researcher&developer.
 
 # List of links in the navigation bar
 navbar-links:
-  Experience: "Experience"
+  #Experience: "Experience"
   #Education: "Education"
-  Projects: "Projects"
+  #Projects: "Projects"
   About: "About"
   Articles: "Medium"
 
