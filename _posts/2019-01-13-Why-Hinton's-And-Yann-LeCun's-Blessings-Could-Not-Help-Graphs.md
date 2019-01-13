@@ -28,6 +28,50 @@ Graphs are often connected with other disciplines, such as biology, chemistry or
  
 #### Basically, Deep Learning on graphs require all the building blocks of Hinton's Neural Networks to be redefined and reinvented.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![](https://i.ibb.co/tCJ3j77/Screenshot-86.png)
 
-[Micheal Bronstein](https://people.lu.usi.ch/bronstem/) is to [Geometric Deep Learning](https://www.youtube.com/watch?v=ptcBmEHDWds) what Geoffrey Hinton is to Deep Learning.
+[Micheal Bronstein](https://people.lu.usi.ch/bronstem/) is to [Geometric Deep Learning](https://www.youtube.com/watch?v=ptcBmEHDWds) what Geoffrey Hinton is to Deep Learning. Simple as that !
+
+If you made it here, probably you are into the idea of Graph Neural Networks and let me tell you we have a lot to cover. Don't trust me?
+![](https://i.ibb.co/g7JFYFr/Screenshot-89.png)
