@@ -41,6 +41,7 @@ In ecommerce, a graph-based learning system will be able to exploit the interact
 
 [Micheal Bronstein](https://people.lu.usi.ch/bronstem/) is to [Geometric Deep Learning](https://www.youtube.com/watch?v=ptcBmEHDWds) what Geoffrey Hinton is to Deep Learning. Simple as that !
 
-If you made it here, probably you are into the idea of Graph Neural Networks and let me tell you we have a lot to cover(dropping a subtle hint that this is going to be a series of blog posts). Don't trust me?
+If you made it here, probably you are into the idea of Graph Neural Networks and let me tell you we have a lot to cover(dropping a subtle hint that this is going to be a series of blog posts). 
+
 ![](https://i.ibb.co/g7JFYFr/Screenshot-89.png)
 
