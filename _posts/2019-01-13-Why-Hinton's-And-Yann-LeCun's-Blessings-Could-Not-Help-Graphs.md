@@ -2,7 +2,7 @@
 layout: post
 title: Why Hinton's And Yann LeCun's Blessings Could Not Help Graphs
 subtitle: How Deep Learning on graphs is different from Deep Learning on images.
-header-img: "img/karate.png"
+header-img: "/img/karate.png"
 ---
 
 Let me be honest, graphs are my favourite data structure and graph theory is just incredible. I love graphs so much that I regularly visit [Zachary's Karate Club](https://en.wikipedia.org/wiki/Zachary%27s_karate_club).
