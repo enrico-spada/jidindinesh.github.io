@@ -10,6 +10,9 @@ Let me be honest, graphs are my favourite datastructure and graph theory is just
 
 Deep Learning is good at extracting complex patterns from data. Data modelled as graphs- social networks, e-commerce networks, biology networks, traffic networks... are readily available, but they are the beyond what Yann LeCun's convolution can handle . Applying deep learning to the ubiquitous graph data is non-trivial because of the unique characteristics of graphs.This problem is nontrivial because several challenges exist for applying traditional deep learning architectures to graphs.
 
-1.Irregular domain
+1. Irregular domain
 
 Unlike images, audio and text which have a clear grid structure, graphs lie in an irregular domain, making it hard to generalize some basic mathematical operations to graphs. For example, it is not straight-forward to define convolution and pooling operation for graph data, which are the fundamental operations in Convolutional Neural Networks (CNNs). This is often referred as the [Geometric Deep Learning](http://geometricdeeplearning.com/).
+
+
+1. Varying structures and tasks
