@@ -26,19 +26,17 @@ In this era of Big data, real graphs can easily have millions of nodes and edges
 
 Graphs are often connected with other disciplines, such as biology, chemistry or social sciences. The interdiscipline provides both opportunities and challenges: domain knowledge can be leveraged to solve specific problems, but integrating domain knowledge could make designing the model more difficult. For example, in generating molecular graphs, the objective function and chemical constraints are often non-differentiable, so gradient based training methods cannot be easily applied.
 
-
-
-
-
  
-### Graph Neural Networks are Neural Networks on steroids.
-In ecommerce, a graph-based learning system will be able to exploit the interactions between users and products to make a highly accurate recommendations. In chemistry, molecules are modeled as graphs and their bioactivity needs to be identified for drug discovery.  
-
-
+### But Graph Neural Networks are Neural Networks on steroids.
+In ecommerce, a graph-based learning system will be able to exploit the interactions between users and products to make a highly accurate recommendations. In chemistry, molecules are modeled as graphs and their bioactivity needs to be identified for drug discovery. 
 
 #### Basically, Deep Learning on graphs require all the building blocks of Hinton's Neural Networks to be redefined and reinvented.
-![](https://i.ibb.co/tCJ3j77/Screenshot-86.png)
 
+> Graph data are irregular.
+
+Each graph has a variable size of unordered nodes and each node in a graph has a different number of neighbors, causing some important operations (e.g., convolutions), which are easy to compute in the image domain, but are not directly applicable to the graph domain any more. Furthermore, a core assumption of existing machine learning algorithms is that instances are independent of each other. However, this is not the case for graph data where each instance (node) is related to others (neighbors) via some complex linkage information, which is used to capture the interdependence among data, including citationship, friendship, and interactions.
+
+![](https://i.ibb.co/tCJ3j77/Screenshot-86.png)
 [Micheal Bronstein](https://people.lu.usi.ch/bronstem/) is to [Geometric Deep Learning](https://www.youtube.com/watch?v=ptcBmEHDWds) what Geoffrey Hinton is to Deep Learning. Simple as that !
 
 If you made it here, probably you are into the idea of Graph Neural Networks and let me tell you we have a lot to cover(dropping a subtle hint that this is going to be a series of blog posts). 
