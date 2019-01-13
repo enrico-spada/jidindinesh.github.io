@@ -8,7 +8,7 @@ Let me be honest, graphs are my favourite datastructure and graph theory is just
 ![Zachary's Karate Club](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Social_Network_Model_of_Relationships_in_the_Karate_Club.png/750px-Social_Network_Model_of_Relationships_in_the_Karate_Club.png)
 
 
-Deep Learning is good at extracting complex patterns from data. Data modelled as graphs- social networks, e-commerce networks, biology networks, traffic networks... are readily available, but they are the beyond what Yann LeCun's convolution can handle . Applying deep learning to the ubiquitous graph data is non-trivial because of the unique characteristics of graphs.This problem is nontrivial because several challenges exist for applying traditional deep learning architectures to graphs.
+Deep Learning is good at extracting complex patterns from data. Data modelled as graphs- social networks, e-commerce networks, biology networks, traffic networks... are readily available, but they are the beyond what Yann LeCun's convolution can handle . Applying deep learning to the ubiquitous graph data is non-trivial because of the unique characteristics of graphs. This problem is nontrivial because several challenges exist for applying traditional deep learning architectures to graphs.
 
 * Irregular domain
 
@@ -20,9 +20,10 @@ Graph itself can be complicated with diverse structures. For example, graphs can
 
 * Scalability and parallelization
 
-In the big-data era, real graphs can easily have millions of nodes and edges, suchas social networks or e-commerce networks. As a result, how to design scalable models, preferably with a linear time complexity, becomes a key problem. In addition, since nodes and edges in the graph are interconnected and often need to be modeled as a whole, how to conduct parallel computing is another critical issue.
+In this era of Big data, real graphs can easily have millions of nodes and edges, suchas social networks or e-commerce networks. As a result, how to design scalable models, preferably with a linear time complexity, becomes a key problem. In addition, since nodes and edges in the graph are interconnected and often need to be modeled as a whole, how to conduct parallel computing is another critical issue.
 
 * Interdiscipline
 
 Graphs are often connected with other disciplines, such as biology, chemistry or social sciences. The interdiscipline provides both opportunities and challenges: domain knowledge can be leveraged to solve specific problems, but integrating domain knowledge could make designing the model more difficult. For example, in generating molecular graphs, the objective function and chemical constraints are often non-differentiable, so gradient based training methods cannot be easily applied.
  
+#### Basically, Deep Learning on graphs require all the building blocks of Hinton's Neural Networks to be redefined and reinvented.
